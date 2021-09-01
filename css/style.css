@@ -7,6 +7,23 @@
 	padding: 0;
 }
 
+
+
+
+
+
+
+/* CHANGE THIS WITH BRAIDED BRIOCHE IMAGE*/
+/* CHANGE THIS WITH BRAIDED BRIOCHE IMAGE*/
+/* CHANGE THIS WITH BRAIDED BRIOCHE IMAGE*/
+/* CHANGE THIS WITH BRAIDED BRIOCHE IMAGE*/
+/* CHANGE THIS WITH BRAIDED BRIOCHE IMAGE*/
+.background-container {
+	background-image: url("/img/facebook_42x42.png");
+	background-attachment: fixed;
+	background: top no-repeat;
+}
+
 .instagram-pics {
 	box-sizing: border-box;
 
